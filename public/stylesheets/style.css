@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+.cse input.gsc-input, input.gsc-input {
+background-image:none !important;
+text-align: center;
+}
